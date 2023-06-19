@@ -1,0 +1,3 @@
+AWS Amplify is a development platform provided by Amazon Web Services that allows developers to build scalable and secure cloud-powered mobile and web applications. Amplify provides a set of tools and services that simplify the development process, including libraries, UI components, and a command-line interface (CLI) for building and deploying applications.
+
+Amplify supports a wide range of popular frameworks and platforms, including React, React Native, Angular, iOS, and Android. It also integrates with other AWS services, such as Amazon S3, Amazon DynamoDB, and AWS Lambda, to provide a complete end-to-end development experience.
